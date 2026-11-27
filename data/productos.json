@@ -1,0 +1,146 @@
+[
+  {
+    "id": "rel-01",
+    "nombre": "Cronógrafo Meridian Obsidian",
+    "categoria": "Relojería",
+    "precio": 4850,
+    "etiqueta": "Edición Limitada",
+    "destacado": true,
+    "stock": 6,
+    "imagen": "img/p1.svg",
+    "resumen": "Caja de acero quirúrgico cepillado de 40 mm con esfera negra mate y movimiento de cuarzo suizo.",
+    "descripcion": "Diseñado bajo principios de precisión arquitectónica, el Meridian Obsidian combina una silueta ultrafina de 7.2 mm con cristal de zafiro antirreflejante y correa intercambiables de piel italiana.",
+    "especificaciones": {
+      "Material": "Acero inoxidable 316L y cristal de zafiro",
+      "Resistencia": "5 ATM (50 metros)",
+      "Diámetro": "40 mm / Grosor 7.2 mm",
+      "Garantía": "3 años internacional"
+    }
+  },
+  {
+    "id": "rel-02",
+    "nombre": "Reloj Minimalista Bauhaus Oro Rosa",
+    "categoria": "Relojería",
+    "precio": 3920,
+    "etiqueta": "Más Vendido",
+    "destacado": true,
+    "stock": 12,
+    "imagen": "img/p2.svg",
+    "resumen": "Esfera marfil limpia con índices aplicados en tono oro rosa cepillado y malla milanesa.",
+    "descripcion": "Inspirado en el diseño industrial alemán de mediados de siglo, este modelo prioriza la legibilidad absoluta y la ligereza en la muñeca para jornadas ejecutivas prolongadas.",
+    "especificaciones": {
+      "Material": "Acero PVD oro rosa y esfera esmaltada",
+      "Resistencia": "3 ATM",
+      "Diámetro": "38 mm / Grosor 6.8 mm",
+      "Garantía": "2 años internacional"
+    }
+  },
+  {
+    "id": "mar-03",
+    "nombre": "Portafolio Ejecutivo Valen",
+    "categoria": "Marroquinería",
+    "precio": 3290,
+    "etiqueta": "Artesanal",
+    "destacado": true,
+    "stock": 8,
+    "imagen": "img/p3.svg",
+    "resumen": "Portafolio estructurado en piel plena flor color coñac con compartimento acolchado para laptop de 15 pulgadas.",
+    "descripcion": "Confeccionado a mano con piel curtida vegetalmente que desarrolla una pátina única con el uso. Incluye organizador interno para documentos, tarjetero y cierre metálico cepillado.",
+    "especificaciones": {
+      "Material": "Piel vacuna plena flor curtida vegetal",
+      "Capacidad": "Laptop hasta 15.6\" + documentos A4",
+      "Dimensiones": "39 × 28 × 6.5 cm",
+      "Herrajes": "Latón envejecido cepillado"
+    }
+  },
+  {
+    "id": "mar-04",
+    "nombre": "Tarjetero Arquitectónico Monolith",
+    "categoria": "Marroquinería",
+    "precio": 980,
+    "etiqueta": "Nuevo",
+    "destacado": false,
+    "stock": 20,
+    "imagen": "img/p4.svg",
+    "resumen": "Perfil ultradelgado en piel negra granulada con bloqueo RFID integrado y 6 ranuras.",
+    "descripcion": "Pensado para eliminar el volumen innecesario en el bolsillo del saco, ofreciendo acceso inmediato a tarjetas esenciales y billetes doblados con costuras reforzadas.",
+    "especificaciones": {
+      "Material": "Piel granulada europea + forro RFID",
+      "Capacidad": "Hasta 8 tarjetas y compartimento central",
+      "Dimensiones": "10.2 × 7.5 × 0.8 cm",
+      "Acabado": "Cantos pintados a mano"
+    }
+  },
+  {
+    "id": "esc-05",
+    "nombre": "Pluma Estilográfica Grafito Studio",
+    "categoria": "Escritorio",
+    "precio": 1650,
+    "etiqueta": "Colección",
+    "destacado": true,
+    "stock": 14,
+    "imagen": "img/p5.svg",
+    "resumen": "Cuerpo hexagonal de aluminio anodizado mate con plumín de iridio de trazo fino.",
+    "descripcion": "Equilibrada meticulosamente en su centro de gravedad para ofrecer una escritura fluida sin fatiga. Compatible con cartuchos estándar y convertidor de émbolo incluido.",
+    "especificaciones": {
+      "Material": "Aluminio aeroespacial anodizado",
+      "Plumín": "Acero con punta de iridio (Fino 0.5 mm)",
+      "Peso": "28 gramos balanceados",
+      "Incluye": "Estuche rígido y convertidor de tinta"
+    }
+  },
+  {
+    "id": "esc-06",
+    "nombre": "Lámpara de Escritorio Lúmina",
+    "categoria": "Escritorio",
+    "precio": 2740,
+    "etiqueta": "Nuevo",
+    "destacado": false,
+    "stock": 5,
+    "imagen": "img/p6.svg",
+    "resumen": "Luminaria arquitectónica articulada con regulación táctil de temperatura de color (2700K–5000K).",
+    "descripcion": "Iluminación libre de parpadeo con alto índice de reproducción cromática (CRI > 95), ideal para lectura nocturna, dibujo técnico y espacios de trabajo minimalistas.",
+    "especificaciones": {
+      "Material": "Aleación de zinc y difusor óptico",
+      "Temperatura": "3 niveles cálido a neutro",
+      "Consumo": "12W LED de alta eficiencia",
+      "Base": "Contrapeso antideslizante de 1.4 kg"
+    }
+  },
+  {
+    "id": "esc-07",
+    "nombre": "Organizador Modular de Nogal",
+    "categoria": "Escritorio",
+    "precio": 1420,
+    "etiqueta": "Sustentable",
+    "destacado": false,
+    "stock": 11,
+    "imagen": "img/p7.svg",
+    "resumen": "Bandeja de escritorio tallada en madera sólida de nogal americano con inserto de fieltro merino.",
+    "descripcion": "Mantiene plumas, relojes, llaves y notas perfectamente alineados. Cada pieza conserva las vetas naturales de la madera tratada con aceites botánicos.",
+    "especificaciones": {
+      "Material": "Nogal americano certificado y lana merino",
+      "Dimensiones": "26 × 14 × 2.4 cm",
+      "Acabado": "Aceite natural mate satinado",
+      "Mantenimiento": "Paño seco o cera neutra"
+    }
+  },
+  {
+    "id": "acc-08",
+    "nombre": "Estuche de Viaje para 2 Relojes",
+    "categoria": "Accesorios",
+    "precio": 1890,
+    "etiqueta": "Edición Limitada",
+    "destacado": false,
+    "stock": 7,
+    "imagen": "img/p8.svg",
+    "resumen": "Cilindro rígido revestido en piel azul medianoche con almohadillas de gamuza desmontables.",
+    "descripcion": "Protege piezas de relojería frente a impactos y humedad durante viajes de negocios, con divisores rígidos que evitan el contacto entre cajas.",
+    "especificaciones": {
+      "Material": "Exterior piel genuina / Interior microgamuza",
+      "Capacidad": "2 relojes de hasta 46 mm",
+      "Dimensiones": "15 × 8.5 × 8.5 cm",
+      "Cierre": "Broches ocultos de presión"
+    }
+  }
+]
